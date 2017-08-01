@@ -35,7 +35,6 @@ describe("Strategy", () => {
 
     settings.FAILURE_RATIO = 0.1;
     settings.MIN_TEST_ATTEMPTS = 10;
-    settings.TEST_TIMEOUT = 8 * 60 * 1000;
   });
 
   it("min test attempts isn't triggered", () => {
