@@ -8,7 +8,7 @@ Strategy for [Magellan](https://github.com/TestArmada/magellan) to stop a test s
 
 ## Important Notes About Versions
 
-Important: `testarmada-magellan-early-bail-strategy` is only supported by Magellan version `10.0.0` or higher.
+Important: `testarmada-magellan-early-bail-strategy` is only supported by Magellan version `10.1.0` or higher.
 
 ## What does this executor do
  
